@@ -7,3 +7,4 @@ Constants (maybe coefficients) for system programmers and researchers.
 - Memory I/O
 - Process/Thread Mgmt
 - Sizes of objects
+- Popular Tasks Latency
