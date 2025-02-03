@@ -18,3 +18,7 @@
 - Sequential memory read, 1MB, local NUMA node, 50us. 
 
 - Sequential memory read, 1GB, local NUMA node, <100ms.
+
+- Latency, Local NUMA DRAM Read v.s. Cross NUMA DRAM Read, 2Socket, UPI @ 11.2GT/s, Xeon Gold IceLake, 77ns vs 130ns
+
+- Throughput, Local NUMA DRAM Read v.s. Cross NUMA DRAM Read, 2Socket, UPI @ 11.2GT/s, Xeon Gold IceLake, 177GBps vs 55GBps
